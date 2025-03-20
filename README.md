@@ -1,0 +1,2 @@
+# Chromaticraft-AIFixes
+使用AI借助unimixins修复了部分chromaticraft的已知问题。
