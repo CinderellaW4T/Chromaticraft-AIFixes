@@ -1,4 +1,4 @@
-# Chromaticraft-AIFixes
+# ChromatiCraft-AIFixes
 使用AI并借助unimixins修复了部分chromaticraft的已知问题。同时，添加了额外的设置，让你能够更加愉快的游玩。
 如果你有新发现的chromaticraft的相关问题，请在issues中提出，并附带上crash report。  
 
